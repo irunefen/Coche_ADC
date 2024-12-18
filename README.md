@@ -53,8 +53,13 @@ Refer to the detailed **blueprint.png** for an overview of the wiring and connec
 3. Refer to the documentation in the `docs` folder for detailed guidance. 📚
 
 ## Gallery 📸
-- **Top View**: ![uppicture.png](uppicture.png)
-- **Blueprint**: ![blueprint.png](blueprint.png)
+- **Top View**: 
+![uppicture.png](uppicture.png)
+- **Blueprint**: 
+![blueprint.png](blueprint.png)
+- **Video Overview**:
+![video.mp4](video.mp4)
+
 
 ## How It Works 🚗
 
